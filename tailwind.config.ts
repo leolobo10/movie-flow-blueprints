@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// MovieFlow custom colors
+				'netflix-red': 'hsl(var(--netflix-red))',
+				'card-hover': 'hsl(var(--card-hover))',
+				'text-secondary': 'hsl(var(--text-secondary))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
